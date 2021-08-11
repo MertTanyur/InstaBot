@@ -131,5 +131,5 @@ bot = InstaBot(USERNAME, PASSWORD, DRIVER_PATH)
 
 bot.login()
 
-bot.retrieve_a_profile('misophonia.tr')
+bot.retrieve_a_profile('porscheturkiye')
 bot.visit_posts_and_analyze_likers()
